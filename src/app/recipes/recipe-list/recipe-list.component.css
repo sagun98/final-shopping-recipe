@@ -1,0 +1,7 @@
+.row .items{
+    display: none !important;
+}
+
+.list-group-item{
+    display:flex;
+}
