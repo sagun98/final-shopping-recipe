@@ -1,0 +1,12 @@
+.row.items {
+  display: inherit !important;
+}
+
+.list-group-item {
+  display: flex;
+}
+
+.pull-left {
+  width: 75%;
+  flex-direction: row;
+}
